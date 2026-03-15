@@ -29,7 +29,3 @@ I chose **Riverpod** due to its compile-time safety and scalability.
 2. Run `flutter pub get`.
 3. Run `flutter build apk` to generate the APK, or run on an emulator using `flutter run`.
 
-## Tradeoffs & Future Improvements (If I had 2 more days)
-- **Real Audio/Images**: Download and bundle actual high-quality loopable `.wav` files and high-res images. Currently, empty placeholders are used to keep repo size small.
-- **Background Audio**: Implement `audio_service` to allow true background playback and OS-level media controls. The current timer stops/pauses depending on OS lifecycle if not configured for background service.
-- **Custom Painter for Breathing UI**: Create a more elaborate and performant particle drift or wave shimmer using `CustomPainter` instead of simple AnimatedContainer gradients.
