@@ -1,0 +1,62 @@
+[
+	{
+		"id": "1",
+		"title": "Forest Focus",
+		"tag": "Focus",
+		"durationSeconds": 0,
+		"description": "Deep concentration with the ambient sounds of a gentle forest.",
+		"chips": ["Breeze", "Birds", "Rustling Leaves", "Binaural"],
+		"thumbnailAsset": "assets/images/forest.png",
+		"audioAsset": "assets/audio/forest.flac"
+	},
+	{
+		"id": "2",
+		"title": "Ocean Calm",
+		"tag": "Calm",
+		"durationSeconds": 0,
+		"description": "Unwind with the rhythmic sound of ocean waves.",
+		"chips": ["Waves", "Breeze", "Distant Gulls", "Warm Light"],
+		"thumbnailAsset": "assets/images/ocean.png",
+		"audioAsset": "assets/audio/ocean.flac"
+	},
+	{
+		"id": "3",
+		"title": "Deep Sleep",
+		"tag": "Sleep",
+		"durationSeconds": 0,
+		"description": "Drift away to the soothing sound of soft rain and distant thunder.",
+		"chips": ["Soft Rain", "Thunder", "White Noise", "Binaural"],
+		"thumbnailAsset": "assets/images/rain.png",
+		"audioAsset": "assets/audio/rain.flac"
+	},
+	{
+		"id": "4",
+		"title": "Morning Reset",
+		"tag": "Reset",
+		"durationSeconds": 0,
+		"description": "Freshen up your day with a bright, energized morning ambiance.",
+		"chips": ["Birds", "Breeze", "Warm Light", "River"],
+		"thumbnailAsset": "assets/images/morning.png",
+		"audioAsset": "assets/audio/morning.flac"
+	},
+	{
+		"id": "5",
+		"title": "Study Flow",
+		"tag": "Focus",
+		"durationSeconds": 0,
+		"description": "Maintain your flow state with subtle white noise and soft coffee shop sounds.",
+		"chips": ["White Noise", "Muted Chatter", "Clinking", "Warm Light"],
+		"thumbnailAsset": "assets/images/cafe.png",
+		"audioAsset": "assets/audio/cafe.flac"
+	},
+	{
+		"id": "6",
+		"title": "Evening Wind Down",
+		"tag": "Calm",
+		"durationSeconds": 0,
+		"description": "Prepare for sleep with gentle fireplace crackles and soft wind.",
+		"chips": ["Fireplace", "Wind", "Night Insects", "Warmth"],
+		"thumbnailAsset": "assets/images/fireplace.png",
+		"audioAsset": "assets/audio/fireplace.flac"
+	}
+]
